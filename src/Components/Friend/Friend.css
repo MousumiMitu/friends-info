@@ -1,0 +1,16 @@
+.friends-box {
+}
+.single-box {
+  width: 350px;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 20px;
+  background-color: rgb(226, 171, 240);
+}
+button {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 20px;
+  margin-left: 130px;
+  cursor: pointer;
+}
